@@ -292,10 +292,10 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | 😭
-1b | Link to `commit #1 from Github.com` |
-1c | Link to markdown tables docs |
-1d | What does `log` do? |
-2a | 2nd Favorite emoji |
+1b | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/omundy/learn-git-milestones/compare/main...davidmhilton:learn-git-milestones:main)
+1c | Link to markdown tables docs | [MARKDOWN_LINK](https://www.codecademy.com/resources/docs/markdown/links)
+1d | What does `log` do? | Log outputs a list of all commited changes in a GitHub repository.
+2a | 2nd Favorite emoji | 
 2b | Link to `commit #2 from Github Desktop` |
 2c | Full path to your working directory |
 2d | Link to `commit #3 from CLI` |
