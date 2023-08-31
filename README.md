@@ -296,7 +296,7 @@ Item # | Description | Completed
 1c | Link to markdown tables docs | [MARKDOWN_LINK](https://www.codecademy.com/resources/docs/markdown/links)
 1d | What does `log` do? | Log outputs a list of all commited changes in a GitHub repository.
 2a | 2nd Favorite emoji | 😮‍💨
-2b | Link to `commit #2 from Github Desktop` |
+2b | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/omundy/learn-git-milestones/commit/a592ad5919d404b3f3f7a9f48bc5c640c16d48ee)
 2c | Full path to your working directory |
 2d | Link to `commit #3 from CLI` |
 2e | 3rd Favorite emoji |
