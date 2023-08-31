@@ -299,7 +299,7 @@ Item # | Description | Completed
 2b | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/omundy/learn-git-milestones/commit/a592ad5919d404b3f3f7a9f48bc5c640c16d48ee)
 2c | Full path to your working directory | ~/Desktop/Senior/DIG245/repos/git-basics
 2d | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/omundy/learn-git-milestones/commit/7086959bc8cd2eafd606a18ed0e38a05ae0df8b7)
-2e | 3rd Favorite emoji |
+2e | 3rd Favorite emoji | 💩
 2f | Link to `commit #4 from VS Code` |
 3a | Link to `first-website` github.com repo page |
 4a | Link to `first-website` github.io "project site" |
